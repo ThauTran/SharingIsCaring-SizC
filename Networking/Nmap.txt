@@ -1,5 +1,8 @@
+#. Sources:
+*** Title :
+--------------------
 1. Sources: https://www.youtube.com/watch?v=F2PXe_o7KqM&t=27&ab_channel=DavidBombal
-   Title  : How Nmap really works// And how to catch it //Stealth scan vs TCP scan //Wireshark analysis
+*** Title : How Nmap really works// And how to catch it //Stealth scan vs TCP scan //Wireshark analysis
       - Stealth scan (half open) : nmap -sS: :SYN, SYN-ACK, RST          - Not recommend to use
       - Full connect scan        : nmap -sT  :SYN, SYN-ACK, ACK, RST-ACK
       - Spot Nmap scans          : SMALL window size, Options contains only 1 option: Mss is small
