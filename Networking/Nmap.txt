@@ -6,7 +6,7 @@
       - Stealth scan (half open) : nmap -sS: :SYN, SYN-ACK, RST          - Not recommend to use
       - Full connect scan        : nmap -sT  :SYN, SYN-ACK, ACK, RST-ACK
       - Spot Nmap scans          : SMALL window size, Options contains only 1 option: Mss is small
-      - Wireshark filter: There are 3 things we need to look for, especially STEALTH SCAN
+      - Wireshark filter: There are 3 things we need to look for, especially STEALTH SCAN. Unless the hacker tries to hide the scanning
           - Small widow size                                        : (tcp.window_size_value == 1024) &&       
           - TCP header with "nothing going on" is about 20 bytes    : (tcp.hdr_len ==24) && 
           - SYN only                                                : (tcp.flags == 0x002) instead of tcp.flags.syn == 1 (SYN, and SYN-ACK will show)
