@@ -17,4 +17,7 @@
             + What we should look for:
                   * Wireshark, CONVERSATION COMPLETENESS
                         ~ TCP Conversation completeness: Complete, NO_DATA (39) - Not a healthy TCP connection: SYN(1), SYN-ACK(2), ACK(4), RST(32)
-                        ~ If a thousand of these happen, that is a SIGN. 1 or 2 will be fine.
+                        ~ If a thousand of these happen, or catch a pattern - that is a SIGN. 1 or 2 will be fine.
+      - How to capture wisely when deal with a lot of data or big file of pcap:
+            + Tools: dumpcap, tcpdump - CAPTURE SMARTER
+                  * dumpcap -D :show all the interfaces
