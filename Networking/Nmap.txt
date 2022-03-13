@@ -7,6 +7,14 @@
       - Full connect scan        : nmap -sT  :SYN, SYN-ACK, ACK, RST-ACK
       - Spot Nmap scans          : SMALL window size, Options contains only 1 option: Mss is small
       - Wireshark filter: There are 3 things we need to look for, especially STEALTH SCAN. Unless the hacker tries to hide the scanning
-          - Small widow size                                        : (tcp.window_size_value == 1024) &&       
-          - TCP header with "nothing going on" is about 20 bytes    : (tcp.hdr_len ==24) && 
-          - SYN only                                                : (tcp.flags == 0x002) instead of tcp.flags.syn == 1 (SYN, and SYN-ACK will show)
+            + WIRESHARK generates THE STEALTH SCAN by ITSELT
+            + Small widow size                                     : (tcp.window_size_value == 1024) &&       
+            + TCP header with "nothing going on" is about 20 bytes : (tcp.hdr_len ==24) && 
+            + SYN only                                             : (tcp.flags == 0x002) instead of tcp.flags.syn == 1 (SYN, and SYN-ACK will show)
+      - Wireshark - Full connect scan (Look more realistic to the "REAL CONNECTION", compared to the stealth scan
+            + It issues a CONNECT CALL to operating system kernel stackto to have it GENERATE the connection
+                  * Operating system Kernel stack:
+            + What we should look for:
+                  * Wireshark, CONVERSATION COMPLETENESS
+                        ~ TCP Conversation completeness: Complete, NO_DATA (39) - Not a healthy TCP connection: SYN(1), SYN-ACK(2), ACK(4), RST(32)
+                        ~ If a thousand of these happen, that is a SIGN. 1 or 2 will be fine.
