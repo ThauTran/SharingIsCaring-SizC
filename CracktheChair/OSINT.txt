@@ -27,7 +27,8 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
   - Purpose: To not draw attention to ourselves
   - This Sock Puppets account is NEVER used in your IP, or anything that relates to us
   - Main goal: To investigate others without getting investigation back to ourselves
-  - Creating SOCK PUPPETS:
+
+3. Creating SOCK PUPPETS:
     + Sources:
       * jackcreps.com : (Page not found - Try it again in the future)
       * secjuice.com  : https://www.secjuice.com/the-art-of-the-sock-osint-humint/
