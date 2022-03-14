@@ -1,5 +1,5 @@
-1. Source:
-*** Title:
+1. Source: https://www.youtube.com/watch?v=n7kYogsTkVo&t=878s&ab_channel=ChrisGreer
+*** Title: The Top 15 Network Protocols and Ports Explained // FTP, SSH, DNS, DHCP, HTTP, SMTP, TCP/IP
 
 When using Wireshark to look for those ports, use the PORT NUMBER instead of their names for FILTERING
 
