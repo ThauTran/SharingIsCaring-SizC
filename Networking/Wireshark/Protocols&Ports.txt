@@ -1,13 +1,42 @@
 1. Source:
 *** Title:
-       -
-       - 
-       - 
-67,68   - DHCP  - Server, client
-          + UPD based
-          + Wireshark: DHCP Discover, DHCP Offer, DHCP Request, DHCP ACK
-69      - TFTP  - Trivial file transfer protocol
-          + UDP based
-          + Moving file, but more simple compared to FTP
-80      - HTTP  - Hyper Text Transfer Protocol
-110     - POP   - Post Office Protocol
+
+When using Wireshark to look for those ports, use the PORT NUMBER instead of their names for FILTERING
+
+TCP    21      - FTP   :File Transfer Protocol
+                     +  Cleared text
+TCP    22      - SSH   : Secure Shell
+                     + Used to REMOTE INTO a device to control it
+TCP    23      - Telnet:
+                     + Send data in clear text
+                            ~ Use FOLLOW THROUGH function in Wireshark to get the completed text
+TCP    25      - SMTP  : Simple Mail Transfer Protocol
+       586, 25, 465  + It can be encrypted or unencrypted
+                     + Used TLS: Data will be encrypted
+UDP    53      - DNS   : Domain Name System
+                     + "Phone book" of the internet
+UDP    67,68   - DHCP  : Dynamic Host Configuration Service
+                     + Server (67), client (68)
+                     + Wireshark: DHCP Discover, DHCP Offer, DHCP Request, DHCP ACK
+UDP    69      - TFTP  : Trivial file transfer protocol
+                     + Moving file, but more simple compared to FTP
+TCP    80      - HTTP  : Hyper Text Transfer Protocol
+TCP    110     - POP3  : Post Office Protocol - Unencypted
+                     + Send data in clear text
+       995     - POP3 with TLS - Encrypted 
+                     + TLS (Tranposrt Layer Security)
+                     + Data sent is encrypted1
+               - IMAP
+       123     - NTP   : Network Time Protocol
+                     + Used for Synchronization
+UDP    161     - SNMP  : Simple Network Management Protocol
+                     + Allows to monitor the network from a central point
+TCP    389     - LDAP  : Lightway Directory Access Protocol   
+                     + Authentication and directory services
+                     + A way of accessing information and authenticating to the system
+TCP    443     - HTTPS : Hyper Text Transfer Protocol Secure
+UDP    443     - HTTPS over QUIC
+TCP    445     - SMB   : Server Message Block
+                     + Moving files
+                     + Especially in Window, used to upload files, share files
+                     + There are several versions of SMB. For example: SMB2
