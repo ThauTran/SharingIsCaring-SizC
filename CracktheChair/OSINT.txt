@@ -1,3 +1,36 @@
 Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
 *** Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
 
+1. What is OSINT?
+  - Open-source intelligence
+  - A multi-methods methodology for :
+    + Collecing, analyzing, and making decisions about data accessible in publicly available sources
+    + Data, info about people, organization
+  - Intelligence lifecyle:
+    + Planning & Direction ->
+      * Look for Who, What, When, Where, and How, then make a plan
+    -> Collection -> Processing & Exploitation
+      * How do we gather information we need for the attacking
+    -> Processing & Exploitation -> Analysis & Production
+      * Use the collected data to put on act
+    -> Analysis & Production -> Dissemination & Integration
+      * Process the collected data, and put all info in the document (plan)
+    -> Dissemination & Integration -> Go back to Planning & Direction
+      * Present all collected info. and completed documents to client
+    + This life cycle is always on GOING
+  - Tools:
+    + GhostRecon: https://github.com/DR34M-M4K3R/GhostRecon
+    
+
+2. Sock Puppets
+  - FAKE account, fake person, fake identity BUT "REAL"
+  - Purpose: To not draw attention to ourselves
+  - This Sock Puppets account is NEVER used in your IP, or anything that relates to us
+  - Main goal: To investigate others without getting investigation back to ourselves
+  - Creating SOCK PUPPETS:
+    + Sources:
+      * jackcreps.com : (Page not found - Try it again in the future)
+      * secjuice.com  : https://www.secjuice.com/the-art-of-the-sock-osint-humint/
+      * reddit.com    : https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
+1st + Fakenamegenator.com
+    
