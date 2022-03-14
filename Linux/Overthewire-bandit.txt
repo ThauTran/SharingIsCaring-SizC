@@ -1,0 +1,37 @@
+Source: https://overthewire.org/wargames/bandit/
+
+Bandit Level 0 -10
+Access next level: ssh bandit[number]@localhost
+Access the server: ssh bandit0@bandit.labs.overthewire.org -p 2220 #[username: bandit0]@[serverhost] -port2220
+
+-------------------------------------------------------------------------------------
+Level 5->6:
+	$find / -user bandit7 -group bandit6 -size 33c 2>/dev/null #send error to shredder
+	$ cd /var/lib/dpkg/info | grep bandit7
+	$cat bandti7.password
+
+Level 6->7:
+	Case 1: Vim
+		$vim data.txt
+		$/ millionth
+	Case 2: grep
+		$cat data.txt | grep -i 'millionth'
+		or
+		$grep 'millionth' data.txt
+
+8-9:
+	Since "uniq -u" cannot dectect duplicate lines unless they are adjacent. We have to sort | uniq
+	$sort data.txt | uniq -u
+
+9-10:
+	$strings data.txt | grep == #using strings for READABLE strings, and preceded by serverl "="
+
+10-11:
+	$base64 -d data.txt #-d: decoding, and -e: encoding
+
+11-12:
+	$cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+  $pw: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu to bandit12@localhost
+
+11-12:
+	
