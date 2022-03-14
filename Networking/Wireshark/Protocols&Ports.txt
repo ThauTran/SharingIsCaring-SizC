@@ -21,14 +21,19 @@ UDP    67,68   - DHCP  : Dynamic Host Configuration Service
 UDP    69      - TFTP  : Trivial file transfer protocol
                      + Moving file, but more simple compared to FTP
 TCP    80      - HTTP  : Hyper Text Transfer Protocol
-TCP    110     - POP3  : Post Office Protocol - Unencypted
+                     + Data is sent in  clear text
+TCP    110     - POP   : Post Office Protocol - Unencypted
                      + Send data in clear text
        995     - POP3 with TLS - Encrypted 
                      + TLS (Tranposrt Layer Security)
                      + Data sent is encrypted1
-               - IMAP
-       123     - NTP   : Network Time Protocol
+       110     - POP3 with NO TLS- Unencrypted              
+       993     - IMAP  : Internet Message Access Protocol - Encrypted
+                     + Secured with TLS
+       143     - IMAP  : Unencryped
+UDP    123     - NTP   : Network Time Protocol
                      + Used for Synchronization
+                     + Mechanism for devices to be able to check in with an authority to set their time accurately 
 UDP    161     - SNMP  : Simple Network Management Protocol
                      + Allows to monitor the network from a central point
 TCP    389     - LDAP  : Lightway Directory Access Protocol   
