@@ -59,5 +59,21 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
   - Nowadays, a lot of companies protect their user's info, but there are still possible for us to grab infor from a taken image/picture
   - exif.regex.info/exif.cgi
     + This site will analyze the uploaded image, and provide a lot of information abou the image
-1:13:53
     
+7. Physical Location OSINT:
+  - Physical Penetrastion test
+  - Looking at the satellie images, or using a drone flyting around to gather useful information
+  -  Goals:
+    + How to get access to the specific place - physical osint
+    + Determine if the physical security is good enough: smoking area, trash door, etc.
+    
+8. Identify Geographical Locations
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
