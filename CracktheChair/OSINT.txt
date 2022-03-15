@@ -55,7 +55,9 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
   - yandex.com/images/                              (8/10)
   - tineye.com                                      (6/10)
 
-6. Viewing EXIF Data:
-  - 
+6. Viewing EXIF Data (Exchangeable Data)
+  - Nowadays, a lot of companies protect their user's info, but there are still possible for us to grab infor from a taken image/picture
+  - exif.regex.info/exif.cgi
+    + This site will analyze the uploaded image, and provide a lot of information abou the image
 
     
