@@ -47,9 +47,15 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
     + Look for SUBDOMAIN:
       * site:testla.com -www -forums (eliminate the www and forums site)
     + Advanced Search: https://www.google.com/advanced_search
-    
-5. Reverse Image Searching
+  - More: Yandex, Duck,...
+  
+5. Reverse Image Searching:
+  - images.google.com (best source)                 (10/10)
+    + Drag and drop the image in the search bar
+  - yandex.com/images/                              (8/10)
+  - tineye.com                                      (6/10)
 
-    
+6. Viewing EXIF Data:
+  - 
 
     
