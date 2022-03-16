@@ -109,16 +109,17 @@ GUIDE
 11. Password OSINT
   - Identify password's pattern
 -------------------------------------------------------  
-11.A. Huting Breached Credentials Part I
+11.A. Huting Breached Credentials 
   - dehashed.com (cost money : $4.49/week) - adobe database
     + Ability to search by a lot of options: Email, Username, IP, Name, Address, Phone, VIN
   - hashes.org        : 
-  - Weleakinfo.to/v2  :
+  - Weleakinfo.to/v2  : The old wevbsite was shut down, but not it has the new site.
   - leackcheck.io     : 9/10
-  - snusbase.com      :
-  - scylla.sh         :
-  - haveibeenpwned.com:
-  2:20:42
+  - snusbase.com      : 
+  - scylla.sh         : 9/10 
+  - haveibeenpwned.com: 10/10 (most updated database)
+  2:25:40
+  
 13.
 14.
 15.
