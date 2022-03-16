@@ -1,6 +1,25 @@
 Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
 *** Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
+-------------------------------------------------------------------------------------------------------------------------------------
+GUIDE
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. 
+11.A.
+11.B.
+12.
+13.
 
+
+-------------------------------------------------------------------------------------------------------------------------------------
 1. What is OSINT?
   - Open-source intelligence
   - A multi-methods methodology for :
@@ -54,6 +73,7 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
     + Drag and drop the image in the search bar
   - yandex.com/images/                              (8/10)
   - tineye.com                                      (6/10)
+  - Note: Female with MAKE UP is the best source ^_^
 
 6. Viewing EXIF Data (Exchangeable Data)
   - Nowadays, a lot of companies protect their user's info, but there are still possible for us to grab infor from a taken image/picture
@@ -68,10 +88,35 @@ Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMen
     + Determine if the physical security is good enough: smoking area, trash door, etc.
     
 8. Identify Geographical Locations
-9.
-10.
-11.
-12.
+  - geoguessr.com (fun game to play around, improve finding skill)
+  - site: https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/  
+  
+9. Creepiest OSINT Tool:
+  - Source          : https://www.youtube.com/watch?v=uBynB50liTw&ab_channel=TheCyberMentor
+  - Site            : Pimeyes.com (Be careful!)
+  
+10. Discovering Email Address:
+  - hunter.io       : Find the pattern of a specific company 
+  - phonebook.cz    : Domains, URLs, Email addresses (Good resource)
+  - voilanorbert.com:
+  - clearbit Connect: Google Chrome only (Good resource), it contains all company with email of employees        
+  - tools.verifyemailaddress.io : Verify the email is valid. Try to catch "This email does not exsits"
+  - email-checker.net/validate  : Verify the validation of an email
+*** DO NOT UNDERESTIMATE "FORGOT PASSWORD?" section
+
+11. Password OSINT:
+  - Identify password's pattern
+  
+11.A. Huting Breached Credentials Part I:
+  - dehashed.com (cost money : $4.49/week) - adobe database
+    + Ability to search by a lot of options: Email, Username, IP, Name, Address, Phone, VIN
+  - hashes.org        : 
+  - Weleakinfo.to/v2  :
+  - leackcheck.io     : 9/10
+  - snusbase.com      :
+  - scylla.sh         :
+  - haveibeenpwned.com:
+  2:20:42
 13.
 14.
 15.
