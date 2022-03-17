@@ -116,12 +116,28 @@ GUIDE
   - Weleakinfo.to/v2  : The old wevbsite was shut down, but not it has the new site.
   - leackcheck.io     : 9/10
   - snusbase.com      : 
-  - scylla.sh         : 9/10 
+  - scylla.sh         : 9/10 : using different pattern, format to find info. about email or any leaks
   - haveibeenpwned.com: 10/10 (most updated database)
-  2:25:40
+
+12. Hunting Usernames and Accounts
+  - namechk.com       : Find AVAILABLE username/domain
+  - whatsmyname.app   : Checking username
+  - nameheckup.com    : checking available username to see where it appears on the internet
+
+13. Searching for People
+  - whitepages.com       : 9/10
+  - truepeoplesearch.com : 10/10
+  - webmii.com           : 8/10
+  - thatsthem.com        : research for IP address, address
+  - 411.com/ spokepo/com/ GOOGLE.com
+
+14. Voter Records
+  - ONLY use this with FULL PERMISSION. Good source to find information
+  - voterrecords.com
+
+15. Hunting Phone Numbers
+  - 2:51:43
   
-13.
-14.
 15.
 16.
 17.
