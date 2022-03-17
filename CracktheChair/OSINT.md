@@ -24,15 +24,15 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
     + Collecing, analyzing, and making decisions about data accessible in publicly available sources
     + Data, info about people, organization
   - Intelligence lifecyle:
-    + Planning & Direction ->
+    + Planning & Direction -> Collection
       * Look for Who, What, When, Where, and How, then make a plan
-    -> Collection -> Processing & Exploitation
+    + Collection -> Processing & Exploitation
       * How do we gather information we need for the attacking
-    -> Processing & Exploitation -> Analysis & Production
+    + Processing & Exploitation -> Analysis & Production
       * Use the collected data to put on act
-    -> Analysis & Production -> Dissemination & Integration
+    + Analysis & Production -> Dissemination & Integration
       * Process the collected data, and put all info in the document (plan)
-    -> Dissemination & Integration -> Go back to Planning & Direction
+    + Dissemination & Integration -> Go back to Planning & Direction
       * Present all collected info. and completed documents to client
     + This life cycle is always on GOING
   - Tools:
@@ -54,23 +54,24 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
       * thispersondoesnotexist.com : Profile picure. AI generator
       * privacy.com         : Virual debit card. It does not tight to your name or any of your information
       * A BURN PHONE        : Mint card recommended
-  + ***IP Address :skull_and_crossbones: : MAKE SURE, NOT USE YOUR PERSONAL LAPTOP (Home Network) to creat a SOCK PUPPET*** 
+  - :skull_and_crossbones: ***IP Address :skull_and_crossbones: : MAKE SURE, NOT USE YOUR PERSONAL LAPTOP (Home Network) to creat a SOCK PUPPET***
+  - :grin: Personal experience :grin:: Find the picture of the person with a lot of make-up on. It's very hard to do a reverse search image on the person :wink:  
 -------------------------------------------------------      
 **4. Search Engine Operators**
   - google.com
-    + password site:testla.com filetype:xlsx
-    + websitename intext:password site:specificsite.com (intext is most common used)
-    + websitename inurl/intitle/intext:specifictest password site:specificsite.com
-    + Look for SUBDOMAIN:
+    + password *site*: testla.com *filetypE*:xlsx
+    + websitename *intext*:password *site*:specificsite.com (intext is most common used)
+    + websitename *inurl/intitle/intext*:specifictest password *site*:specificsite.com
+    + Look for **SUBDOMAIN**:
       * site:testla.com -www -forums (eliminate the www and forums site)
     + Advanced Search: https://www.google.com/advanced_search
   - More: Yandex, Duck,...
 -------------------------------------------------------  
 **5. Reverse Image Searching**
-  - images.google.com (best source)                 (10/10)
+  - images.google.com (best source) : 10/10
     + Drag and drop the image in the search bar
-  - yandex.com/images/                              (8/10)
-  - tineye.com                                      (6/10)
+  - yandex.com/images/              : 8/10 - https://yandex.com/images/
+  - tineye.com                      : 6/10 - https://tineye.com/
   - Note: Female with MAKE UP is the best source ^_^
 -------------------------------------------------------
 **6. Viewing EXIF Data (Exchangeable Data)**
@@ -94,11 +95,11 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
   - Site            : Pimeyes.com (Be careful!)
 -------------------------------------------------------  
 **10. Discovering Email Address**
-  - hunter.io       : Find the pattern of a specific company 
-  - phonebook.cz    : Domains, URLs, Email addresses (Good resource)
-  - voilanorbert.com:
+  - hunter.io       : Find the pattern of a specific company - https://hunter.io/
+  - phonebook.cz    : Domains, URLs, Email addresses (Good resource) - https://phonebook.cz/
+  - voilanorbert.com: https://www.voilanorbert.com/
   - clearbit Connect: Google Chrome only (Good resource), it contains all company with email of employees        
-  - tools.verifyemailaddress.io : Verify the email is valid. Try to catch "This email does not exsits"
+  - tools.verifyemailaddress.io : Verify the email is valid. Try to catch "This email does not exsits" - https://tools.emailhippo.com/
   - email-checker.net/validate  : Verify the validation of an email
   - :smiling_imp::smiling_imp::smiling_imp: ***DO NOT UNDERESTIMATE "FORGOT PASSWORD?" section***:smiling_imp::smiling_imp::smiling_imp:
 -------------------------------------------------------
@@ -108,17 +109,17 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
 **11.A. Huting Breached Credentials** 
   - dehashed.com (cost money : $4.49/week) - adobe database
     + Ability to search by a lot of options: Email, Username, IP, Name, Address, Phone, VIN
-  - hashes.org        : 
-  - Weleakinfo.to/v2  : The old wevbsite was shut down, but not it has the new site.
-  - leackcheck.io     : 9/10
-  - snusbase.com      : 
-  - scylla.sh         : 9/10 : using different pattern, format to find info. about email or any leaks
-  - haveibeenpwned.com: 10/10 (most updated database)
+  - hashes.org        : http://dan.hasher.org/
+  - Weleakinfo.to     : The old wevbsite was shut down, but not it has the new site - https://weleakinfo.to/
+  - leakcheck.io      : 9/10 - https://leakcheck.io/
+  - snusbase.com      : https://snusbase.com/
+  - scylla.ao         : 9/10 : using different pattern, format to find info. about email or any leaks. CURRENTLY DOWN - https://scylla.so/
+  - haveibeenpwned.com: 10/10 (most updated database) - https://haveibeenpwned.com/
 
 **12. Hunting Usernames and Accounts**
-  - namechk.com       : Find AVAILABLE username/domain
-  - whatsmyname.app   : Checking username
-  - nameheckup.com    : checking available username to see where it appears on the internet
+  - namechk.com       : Find AVAILABLE username/domain - https://namechk.com/
+  - whatsmyname.app   : Checking username - https://whatsmyname.app/
+  - namecheckup.com   : checking available username to see where it appears on the internet - https://namecheckup.com/
 
 **13. Searching for People**
   - whitepages.com       : 9/10 - https://www.whitepages.com/
@@ -137,8 +138,9 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
   - Use icon/emoji when find the phone number since ppl usually "decorate" their phone number with a little icon
   - truecaller.com: https://www.truecaller.com/
   - calleridtest.com: https://calleridtest.com/ 
-
-2:59:16
-15.
-16.
+  - :smiling_imp::smiling_imp: AGAIN, Don't underestimate "FORGOT PASSWORD." The system will give the format of the phone number or email domain, or anything the "real users" used as a recovery method when they forget their password. :smiling_imp::smiling_imp:
+  - inforbel.com : look up other country phone number pattern - https://www.infobel.com/fr/world
+  
+**16. Discovering Birthdates**
+  - 3:03:23
 17.
