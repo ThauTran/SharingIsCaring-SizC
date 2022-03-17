@@ -123,10 +123,10 @@ MENU
   - nameheckup.com    : checking available username to see where it appears on the internet
 
 **13. Searching for People**
-  - whitepages.com       : 9/10
-  - truepeoplesearch.com : 10/10
-  - webmii.com           : 8/10
-  - thatsthem.com        : research for IP address, address
+  - whitepages.com       : 9/10 - https://www.whitepages.com/
+  - truepeoplesearch.com : 10/10 - https://www.truepeoplesearch.com/
+  - webmii.com           : 8/10 - https://webmii.com/
+  - thatsthem.com        : research for IP address, address - https://thatsthem.com/
   - 411.com/ spokepo/com/ GOOGLE.com
 
 **14. Voter Records**
@@ -134,8 +134,12 @@ MENU
   - voterrecords.com
 
 **15. Hunting Phone Numbers**
-  - 2:51:43
-  
+  - Try with Google first. We may be able to find the pattern or the area of the number is from
+  - 665-112-1234 or "six-six-five one-one-two one-two-three-four"
+  - Use icon/emoji when find the phone number since ppl usually "decorate" their phone number with a little icon
+  - truecaller.com: https://www.truecaller.com/
+  - calleridtest.com: https://calleridtest.com/ 
+
 15.
 16.
 17.
