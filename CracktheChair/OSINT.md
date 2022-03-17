@@ -1,28 +1,26 @@
 Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
-***Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
+Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
 ------------------------------------------------------
-GUIDE
-***                                                   : Important NOTE
-0. Title----------------------------------------------: Line #
-1. What is OSINT?                                     :
-2. Sock Puppets                                       :
-3. Creating Sock puppet Account                       :
-4. Search Engine Operator                             :
-5. Viewing EXIF Data (Exchangeable Data               :
-6. Reverse Image Searching                            :
-7. Physical Location OSINT                            :
-8. Identify Geographical Locations                    :
-9. Creepiest OSINT Tool                               :
-10. Discovering Email Addres                          :
-11. Password OSINT                                    :
-11.A. Huting Breached Credentials Part I              :
-11.B.
+MENU
+0. Title
+1. What is OSINT?                                     
+2. Sock Puppets                                       
+3. Creating Sock puppet Account                      
+4. Search Engine Operator                             
+5. Viewing EXIF Data (Exchangeable Data              
+6. Reverse Image Searching                           
+7. Physical Location OSINT                           
+8. Identify Geographical Locations                   
+9. Creepiest OSINT Tool                               
+10. Discovering Email Addres                          
+11. Password OSINT                                    
+11.A. Huting Breached Credentials Part I             
 12.
 13.
 
 
 -------------------------------------------------------
-##1. What is OSINT?
+**1. What is OSINT?**
   - Open-source intelligence
   - A multi-methods methodology for :
     + Collecing, analyzing, and making decisions about data accessible in publicly available sources
@@ -42,13 +40,13 @@ GUIDE
   - Tools:
     + GhostRecon: https://github.com/DR34M-M4K3R/GhostRecon
 -------------------------------------------------------    
-##2. Sock Puppets
+**2. Sock Puppets**
   - FAKE account, fake person, fake identity BUT "REAL"
   - Purpose: To not draw attention to ourselves
   - This Sock Puppets account is NEVER used in your IP, or anything that relates to us
   - Main goal: To investigate others without getting investigation back to ourselves
 -------------------------------------------------------
-##3. Creating SOCK PUPPETS
+**3. Creating SOCK PUPPETS**
   - Never use our personal device to used the sock puppet account.
     + Sources:
       * jackcreps.com       : (Page not found - Try it again in the future)
@@ -58,9 +56,9 @@ GUIDE
       * thispersondoesnotexist.com : Profile picure. AI generator
       * privacy.com         : Virual debit card. It does not tight to your name or any of your information
       * A BURN PHONE        : Mint card recommended
-***   * IP Address          : MAKE SURE, NOT USE YOUR PERSONAL LAPTOP (Home Network) to creat a SOCK PUPPET
+  + ***IP Address :skull_and_crossbones: : MAKE SURE, NOT USE YOUR PERSONAL LAPTOP (Home Network) to creat a SOCK PUPPET*** 
 -------------------------------------------------------      
-##4. Search Engine Operators
+**4. Search Engine Operators**
   - google.com
     + password site:testla.com filetype:xlsx
     + websitename intext:password site:specificsite.com (intext is most common used)
@@ -70,46 +68,46 @@ GUIDE
     + Advanced Search: https://www.google.com/advanced_search
   - More: Yandex, Duck,...
 -------------------------------------------------------  
-##5. Reverse Image Searching
+**5. Reverse Image Searching**
   - images.google.com (best source)                 (10/10)
     + Drag and drop the image in the search bar
   - yandex.com/images/                              (8/10)
   - tineye.com                                      (6/10)
   - Note: Female with MAKE UP is the best source ^_^
 -------------------------------------------------------
-##6. Viewing EXIF Data (Exchangeable Data)
+**6. Viewing EXIF Data (Exchangeable Data)**
   - Nowadays, a lot of companies protect their user's info, but there are still possible for us to grab infor from a taken image/picture
   - exif.regex.info/exif.cgi
     + This site will analyze the uploaded image, and provide a lot of information abou the image
 -------------------------------------------------------    
-##7. Physical Location OSINT
+**7. Physical Location OSINT**
   - Physical Penetrastion test
   - Looking at the satellie images, or using a drone flyting around to gather useful information
   -  Goals:
     + How to get access to the specific place - physical osint
     + Determine if the physical security is good enough: smoking area, trash door, etc.
 -------------------------------------------------------    
-##8. Identify Geographical Locations
+**8. Identify Geographical Locations**
   - geoguessr.com (fun game to play around, improve finding skill)
   - site: https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/  
 -------------------------------------------------------  
-##9. Creepiest OSINT Tool:
+**9. Creepiest OSINT Tool**
   - Source          : https://www.youtube.com/watch?v=uBynB50liTw&ab_channel=TheCyberMentor
   - Site            : Pimeyes.com (Be careful!)
 -------------------------------------------------------  
-##10. Discovering Email Address:
+**10. Discovering Email Address**
   - hunter.io       : Find the pattern of a specific company 
   - phonebook.cz    : Domains, URLs, Email addresses (Good resource)
   - voilanorbert.com:
   - clearbit Connect: Google Chrome only (Good resource), it contains all company with email of employees        
   - tools.verifyemailaddress.io : Verify the email is valid. Try to catch "This email does not exsits"
   - email-checker.net/validate  : Verify the validation of an email
-*** DO NOT UNDERESTIMATE "FORGOT PASSWORD?" section
+  - :smiling_imp::smiling_imp::smiling_imp: ***DO NOT UNDERESTIMATE "FORGOT PASSWORD?" section***:smiling_imp::smiling_imp::smiling_imp:
 -------------------------------------------------------
-##11. Password OSINT
+**11. Password OSINT**
   - Identify password's pattern
 -------------------------------------------------------  
-##11.A. Huting Breached Credentials 
+**11.A. Huting Breached Credentials** 
   - dehashed.com (cost money : $4.49/week) - adobe database
     + Ability to search by a lot of options: Email, Username, IP, Name, Address, Phone, VIN
   - hashes.org        : 
@@ -119,23 +117,23 @@ GUIDE
   - scylla.sh         : 9/10 : using different pattern, format to find info. about email or any leaks
   - haveibeenpwned.com: 10/10 (most updated database)
 
-##12. Hunting Usernames and Accounts
+**12. Hunting Usernames and Accounts**
   - namechk.com       : Find AVAILABLE username/domain
   - whatsmyname.app   : Checking username
   - nameheckup.com    : checking available username to see where it appears on the internet
 
-##13. Searching for People
+**13. Searching for People**
   - whitepages.com       : 9/10
   - truepeoplesearch.com : 10/10
   - webmii.com           : 8/10
   - thatsthem.com        : research for IP address, address
   - 411.com/ spokepo/com/ GOOGLE.com
 
-##14. Voter Records
+**14. Voter Records**
   - ONLY use this with FULL PERMISSION. Good source to find information
   - voterrecords.com
 
-##15. Hunting Phone Numbers
+**15. Hunting Phone Numbers**
   - 2:51:43
   
 15.
