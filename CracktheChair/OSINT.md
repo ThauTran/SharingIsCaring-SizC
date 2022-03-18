@@ -1,6 +1,8 @@
-Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
-Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
-------------------------------------------------------
+- Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
+- Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
+---
+For Educational Purposes ONLY	:nerd_face:	:nerd_face:
+---
 1. What is OSINT?                                     
 2. Sock Puppets                                       
 3. Creating Sock puppet Account                      
@@ -12,11 +14,13 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
 9. Creepiest OSINT Tool                               
 10. Discovering Email Addres                          
 11. Password OSINT                                    
-11.A. Huting Breached Credentials Part I             
-12.
-13.
-
-
+11.A. Huting Breached Credentials            
+12. Hunting Usernames and Accounts
+13. Searching for People*
+14. Voter Records
+15. Hunting Phone Numbers
+16. Discovering Birthdates
+17. Seraching for Resumes
 ---
 **1. What is OSINT?**
   - Open-source intelligence
