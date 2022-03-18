@@ -45,3 +45,6 @@ TCP    445     - SMB   : Server Message Block
                      + Moving files
                      + Especially in Window, used to upload files, share files
                      + There are several versions of SMB. For example: SMB2
+|TCP/UDP|Port Number|Protocol|Descriptions| More version|
+|-------|-----------|--------|------------|-------------|
+|TCP    | 445       |SMB: Server Message Block|+ Moving files, uploading files, sharing files| Several versions of SMB. For example: SMB2|
