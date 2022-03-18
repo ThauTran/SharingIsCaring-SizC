@@ -1,4 +1,4 @@
-Enhancing your knowledge everyday. The list below contains cybersecurity information, newest vulnerabilities, good source of learning. I will continue updating the list.
+Enhancing your knowledge everyday. The list below contains cybersecurity information, newest vulnerabilities, and learning resources. I will continue updating the list.
   - Websites: Cyber news
     + https://portswigger.net/daily-swig/vulnerabilities (Free)
     + https://www.wired.com/ (Subscription required)
