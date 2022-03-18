@@ -17,7 +17,7 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
 13.
 
 
--------------------------------------------------------
+---
 **1. What is OSINT?**
   - Open-source intelligence
   - A multi-methods methodology for :
@@ -37,13 +37,13 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
     + This life cycle is always on GOING
   - Tools:
     + GhostRecon: https://github.com/DR34M-M4K3R/GhostRecon
--------------------------------------------------------    
+---    
 **2. Sock Puppets**
   - FAKE account, fake person, fake identity BUT "REAL"
   - Purpose: To not draw attention to ourselves
   - This Sock Puppets account is NEVER used in your IP, or anything that relates to us
   - Main goal: To investigate others without getting investigation back to ourselves
--------------------------------------------------------
+---
 **3. Creating SOCK PUPPETS**
   - Never use our personal device to used the sock puppet account.
     + Sources:
@@ -56,24 +56,24 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
       * A BURN PHONE        : Mint card recommended
   - :skull_and_crossbones: ***IP Address :skull_and_crossbones: : MAKE SURE, NOT USE YOUR PERSONAL LAPTOP (Home Network) to creat a SOCK PUPPET***
   - :grin: Personal experience :grin:: Find the picture of the person with a lot of make-up on. It's very hard to do a reverse search image on the person :wink:  
--------------------------------------------------------      
+---      
 **4. Search Engine Operators**
   - google.com
-    + password *site*: testla.com *filetypE*:xlsx
-    + websitename *intext*:password *site*:specificsite.com (intext is most common used)
-    + websitename *inurl/intitle/intext*:specifictest password *site*:specificsite.com
+    + password `site:` testla.com `filetypE:`xlsx
+    + websitename `intext:`password `site:`specificsite.com (intext is most common used)
+    + websitename `inurl/intitle/intext:`specifictest password `site:`specificsite.com
     + Look for **SUBDOMAIN**:
-      * site:testla.com -www -forums (eliminate the www and forums site)
+      * `site:`testla.com `-www` `-forums` (eliminate the www and forums site)
     + Advanced Search: https://www.google.com/advanced_search
   - More: Yandex, Duck,...
--------------------------------------------------------  
+--- 
 **5. Reverse Image Searching**
   - images.google.com (best source) : 10/10
     + Drag and drop the image in the search bar
   - yandex.com/images/              : 8/10 - https://yandex.com/images/
   - tineye.com                      : 6/10 - https://tineye.com/
-  - Note: Female with MAKE UP is the best source ^_^
--------------------------------------------------------
+  - Note: Female with MAKE UP is the best source :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
+---
 **6. Viewing EXIF Data (Exchangeable Data)**
   - Nowadays, a lot of companies protect their user's info, but there are still possible for us to grab infor from a taken image/picture
   - exif.regex.info/exif.cgi
@@ -101,7 +101,7 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
   - clearbit Connect: Google Chrome only (Good resource), it contains all company with email of employees        
   - tools.verifyemailaddress.io : Verify the email is valid. Try to catch "This email does not exsits" - https://tools.emailhippo.com/
   - email-checker.net/validate  : Verify the validation of an email
-  - :smiling_imp::smiling_imp::smiling_imp: ***DO NOT UNDERESTIMATE "FORGOT PASSWORD?" section***:smiling_imp::smiling_imp::smiling_imp:
+  - :smiling_imp::smiling_imp::smiling_imp: ***DO NOT UNDERESTIMATE `"FORGOT PASSWORD?"` section***:smiling_imp::smiling_imp::smiling_imp:
 -------------------------------------------------------
 **11. Password OSINT**
   - Identify password's pattern
@@ -142,5 +142,12 @@ Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
   - inforbel.com : look up other country phone number pattern - https://www.infobel.com/fr/world
   
 **16. Discovering Birthdates**
-  - 3:03:23
-17.
+  - Tools: 
+    + Google: Using search engine to find info
+      * Example: "Example Name" birthday or "Example Name" `intext:`"happy birthday" `site:`facebook.com 
+
+**17. Seraching for Resumes**
+  - Find more information about someone's background: Companies, other personal information
+    + Images is a good place to look for
+    + Using search engine:
+      * Example: "Example Name" resume `filetype:`pdf site:linkedin.com
