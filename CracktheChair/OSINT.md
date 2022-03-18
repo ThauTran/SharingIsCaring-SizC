@@ -1,8 +1,10 @@
 - Source: https://www.youtube.com/watch?v=qwA6MmbeGNo&t=90s&ab_channel=TheCyberMentor
 - Title: Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!
----
 For Educational Purposes ONLY	:nerd_face:	:nerd_face:
 ---
+## `whatisit`
+---
+## `whatisinsidethisfile`
 1. What is OSINT?                                     
 2. Sock Puppets                                       
 3. Creating Sock puppet Account                      
