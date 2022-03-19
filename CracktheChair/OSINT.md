@@ -159,4 +159,5 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
       * Example: "Example Name" resume `filetype:`pdf site:linkedin.com
 
 **18. Using Twitter search like a Pro**
-  - ![Ultimate searching guide](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query) - Source: twitter
+  - [Ultimate searching guide](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query) - Source: twitter
+  - [Twitter Advanced Search](https://www.tweetbinder.com/blog/twitter-advanced-search/)
