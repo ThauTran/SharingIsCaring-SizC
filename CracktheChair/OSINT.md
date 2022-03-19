@@ -172,4 +172,10 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
   - Another :sunglasses:COOL:sunglasses: tool: 
     + [Tweetdeck](https://tweetdeck.twitter.com/)
       * Adding columns, specifying what information we want to "monitor" in twitter: Geo cordinate, @Username, Date...
-    
+
+**19. Facebook OSINT**
+**20. Instagram OSINT**
+**21. Snapchat OSINT**
+**22. Reddit OSINT**
+**23. Linkedln OSINT**
+**24. Tiktok OSINT**
