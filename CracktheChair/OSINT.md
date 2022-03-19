@@ -167,6 +167,9 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
     + [Twitonomy](https://www.twitonomy.com/): (9/10) Analyzing other people's file. Same as above
     + [Mentionapp](https://mentionmapp.com/): See the connection of the user. Who do the user talk to, and more
     + [Tweetbeaver](https://tweetbeaver.com/): Twitter ID lookup. Storing the ID in ase the user change his/her username
-    + [Spoonbill](https://spoonbill.io/):
-    + [Tinfoleak](https://tinfoleak.com/):
-    + 
+    + [Spoonbill](https://spoonbill.io/): (8/10) All info about a specific twitter account
+    + [Tinfoleak](https://tinfoleak.com/): Also collecting data from a user
+  - Another :sunglasses:COOL:sunglasses: tool: 
+    + [Tweetdeck](https://tweetdeck.twitter.com/)
+      * Adding columns, specifying what information we want to "monitor" in twitter: Geo cordinate, @Username, Date...
+    
