@@ -158,6 +158,15 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
     + Using search engine:
       * Example: "Example Name" resume `filetype:`pdf site:linkedin.com
 
-**18. Using Twitter search like a Pro**
+**18. Twitter OSINT**
   - [Ultimate searching guide](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query) - Source: twitter
-  - [Twitter Advanced Search](https://www.tweetbinder.com/blog/twitter-advanced-search/)
+  - [Twitter Advanced Search](https://www.tweetbinder.com/blog/twitter-advanced-search/) - Source: tweetbinder
+  - Using `geocode`by using the cordinate of the specific area (google map)
+  - Other tools:
+    + [Socialbearing](https://socialbearing.com/): (9/10) Statistics of all the activities of a specific account
+    + [Twitonomy](https://www.twitonomy.com/): (9/10) Analyzing other people's file. Same as above
+    + [Mentionapp](https://mentionmapp.com/): See the connection of the user. Who do the user talk to, and more
+    + [Tweetbeaver](https://tweetbeaver.com/): Twitter ID lookup. Storing the ID in ase the user change his/her username
+    + [Spoonbill](https://spoonbill.io/):
+    + [Tinfoleak](https://tinfoleak.com/):
+    + 
