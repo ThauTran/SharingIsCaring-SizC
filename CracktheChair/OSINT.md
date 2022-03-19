@@ -174,6 +174,10 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
       * Adding columns, specifying what information we want to "monitor" in twitter: Geo cordinate, @Username, Date...
 
 **19. Facebook OSINT**
+  - Using Searching function in Facebook is good enought for gathering information.
+  - Other tool:
+    + Intelx.io(#https://intelx.io/) - `View page source` by using RIGHT CLICK, then find USERID
+
 **20. Instagram OSINT**
 **21. Snapchat OSINT**
 **22. Reddit OSINT**
