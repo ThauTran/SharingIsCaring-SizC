@@ -179,7 +179,16 @@ For Educational Purposes ONLY	:nerd_face:	:nerd_face:
     + Intelx.io(#https://intelx.io/) - `View page source` by using RIGHT CLICK, then find USERID
 
 **20. Instagram OSINT**
+  - [Codeofaninja](#https://codeofaninja.com/)
+  - Utilize the image to do [REVERSE IMAGE SEARCH](#6-reverse-image-searching)
 **21. Snapchat OSINT**
+  - Users usually enable their location
+  - [Snapmap](#https://map.snapchat.com)
 **22. Reddit OSINT**
+  - Searching bar
+  - [Advanced Search](#https://www.makeuseof.com/tag/right-way-search-reddit/)
+  - Using GOOGLE. Ex: "Example" site:reddit.com
 **23. Linkedln OSINT**
+  - Utilize [Reverse Image Search] - Finding related post, images,...
 **24. Tiktok OSINT**
+ - Utilize [Reverse Image Search] - Profile picture
