@@ -23,3 +23,4 @@
 |Tool familitarity: Metasploit, Burp Suite, Nessus, etc||
 ---
 ### `3. Basic Networking `
+1:04:54
